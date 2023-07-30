@@ -1,0 +1,18 @@
+{
+  "name": "nodecourse",
+  "version": "1.0.0",
+  "description": "node crash course full-stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Henri Hujanen",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
